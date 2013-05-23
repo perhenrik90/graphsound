@@ -1,10 +1,9 @@
-In order to get GraphSound to work you need to install csound.
-"www.csounds.com"
+In order to get GraphSound to work you need to install some frameworks.
 
 The application uses
 
-- SFML 
-- Csound
+- SFML   - www.sfml-dev.org
+- Csound - www.csounds.com
 
 
 
