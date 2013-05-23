@@ -1,0 +1,164 @@
+T«PROJECTNAME»
+v7
+r0
+t319748864.101290
+cCheck dependencies
+cProcessInfoPlistFile "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Info.plist" Info.plist
+cCompileC "build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/Objects-normal/i386/main.o" "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cPBXCp build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-system.framework /Library/Frameworks/sfml-system.framework
+cPBXCp build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-window.framework /Library/Frameworks/sfml-window.framework
+cPBXCp build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-graphics.framework /Library/Frameworks/sfml-graphics.framework
+
+N/Library/Frameworks/sfml-graphics.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Library/Frameworks/sfml-graphics.framework/sfml-graphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/Library/Frameworks/sfml-system.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Library/Frameworks/sfml-system.framework/sfml-system
+c00000000000000000000000000000000
+t2
+s0
+
+N/Library/Frameworks/sfml-window.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Library/Frameworks/sfml-window.framework/sfml-window
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app
+t1298056064
+s102
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-graphics.framework
+t2
+s0
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-system.framework
+t2
+s0
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-window.framework
+t2
+s0
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Info.plist
+t1298056064
+s618
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/MacOS/«PROJECTNAME»
+t2
+s0
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/PkgInfo
+t1298056064
+s8
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/Objects-normal/i386/«PROJECTNAME».LinkFileList
+c000000004D5EC38000000000000000D8
+t1298056064
+s216
+
+N/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp
+c000000004BBA05050000000000000408
+t1270482181
+s1032
+i<SFML/Graphics.hpp>
+
+NInfo.plist
+c000000004BBA0505000000000000027A
+t1270482181
+s634
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319748864#319748864#0(0"0(0#1#0"8600213760#0"0#
+
+CCompileC "build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/Objects-normal/i386/main.o" "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s319748864.043428
+e319748864.068899
+r0
+xCompileC
+xbuild/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/Objects-normal/i386/main.o
+x/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:5:29: error: SFML/Graphics.hpp: No such file or directory
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp: In function 'int main()':
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:17: error: 'sf' has not been declared
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:17: error: expected `;' before 'App'
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:20: error: 'App' was not declared in this scope
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:23: error: 'sf' has not been declared
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:23: error: expected `;' before 'Event'
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:24: error: 'Event' was not declared in this scope
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:27: error: 'sf' has not been declared
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:35: error: 'sf' has not been declared
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:35: error: 'sf' has not been declared
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:35: error: 'sf' has not been declared
+o/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:41: error: 'EXIT_SUCCESS' was not declared in this scope
+lSLF07#2@133"Compile /Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp319748864#319748864#0(2182"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:5:29: error: SFML/Graphics.hpp: No such file or directory/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp: In function 'int main()':/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:17: error: 'sf' has not been declared/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:17: error: expected `;' before 'App'/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:20: error: 'App' was not declared in this scope/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:23: error: 'sf' has not been declared/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:23: error: expected `;' before 'Event'/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:24: error: 'Event' was not declared in this scope/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:27: error: 'sf' has not been declared/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:35: error: 'sf' has not been declared/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:35: error: 'sf' has not been declared/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:35: error: 'sf' has not been declared/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp:41: error: 'EXIT_SUCCESS' was not declared in this scope12(4@44"SFML/Graphics.hpp: No such file or directory319748864#0#184#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#5#0#5#0#28"*: No such file or directory0(4@26"'sf' has not been declared319748864#337#164#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#17#0#17#0#25"'*' has not been declared0(4@25"Expected `;' before 'App'319748864#501#163#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#17#0#17#0#19"expected * before *0(4@36"'App' was not declared in this scope319748864#664#174#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#20#0#20#0#34"'*' was not declared in this scope0(4@26"'sf' has not been declared319748864#838#164#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#23#0#23#0#25"'*' has not been declared0(4@27"Expected `;' before 'Event'319748864#1002#165#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#23#0#23#0#19"expected * before *0(4@38"'Event' was not declared in this scope319748864#1167#176#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#24#0#24#0#34"'*' was not declared in this scope0(4@26"'sf' has not been declared319748864#1343#164#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#27#0#27#0#25"'*' has not been declared0(4@26"'sf' has not been declared319748864#1507#164#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#35#0#35#0#25"'*' has not been declared0(4@26"'sf' has not been declared319748864#1671#164#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#35#0#35#0#25"'*' has not been declared0(4@26"'sf' has not been declared319748864#1835#164#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#35#0#35#0#25"'*' has not been declared0(4@45"'EXIT_SUCCESS' was not declared in this scope319748864#1999#183#0(6@125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp292174981#41#0#41#0#34"'*' was not declared in this scope0(0#0#125"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp8610574592#2322"    cd "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/«PROJECTNAME»-generated-files.hmap" "-I/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/«PROJECTNAME»-own-target-headers.hmap" "-I/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/«PROJECTNAME»-all-target-headers.hmap" -iquote "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/«PROJECTNAME»-project-headers.hmap" "-F/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug" "-I/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/include" "-I/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/DerivedSources/i386" "-I/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/DerivedSources" -c "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/main.cpp" -o "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/SFML Graphics-based Application.build/Debug/«PROJECTNAME».build/Objects-normal/i386/main.o"1#
+
+CLd "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/MacOS/«PROJECTNAME»" normal i386
+r0
+
+CPBXCp build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-graphics.framework /Library/Frameworks/sfml-graphics.framework
+s319748864.073413
+e319748864.101211
+r0
+xPBXCp
+xbuild/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-graphics.framework
+x/Library/Frameworks/sfml-graphics.framework
+opbxcp: sfml-graphics.framework: No such file or directory
+lSLF07#2@48"Copy /Library/Frameworks/sfml-graphics.framework319748864#319748864#0(58"pbxcp: sfml-graphics.framework: No such file or directory1(4@57"pbxcp: sfml-graphics.framework: No such file or directory319748864#18446744073709551615#0#0(6@0"319748864#0#0#0#0#0"0(0#0#43"/Library/Frameworks/sfml-graphics.framework8598571072#489"    cd "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Library/Frameworks/sfml-graphics.framework "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Frameworks"1#
+
+CPBXCp build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-system.framework /Library/Frameworks/sfml-system.framework
+s319748864.068983
+e319748864.099566
+r0
+xPBXCp
+xbuild/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-system.framework
+x/Library/Frameworks/sfml-system.framework
+opbxcp: sfml-system.framework: No such file or directory
+lSLF07#2@46"Copy /Library/Frameworks/sfml-system.framework319748864#319748864#0(56"pbxcp: sfml-system.framework: No such file or directory1(4@55"pbxcp: sfml-system.framework: No such file or directory319748864#18446744073709551615#0#0(6@0"319748864#0#0#0#0#0"0(0#0#41"/Library/Frameworks/sfml-system.framework8599767008#487"    cd "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Library/Frameworks/sfml-system.framework "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Frameworks"1#
+
+CPBXCp build/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-window.framework /Library/Frameworks/sfml-window.framework
+s319748864.070330
+e319748864.098923
+r0
+xPBXCp
+xbuild/Debug/«PROJECTNAME».app/Contents/Frameworks/sfml-window.framework
+x/Library/Frameworks/sfml-window.framework
+opbxcp: sfml-window.framework: No such file or directory
+lSLF07#2@46"Copy /Library/Frameworks/sfml-window.framework319748864#319748864#0(56"pbxcp: sfml-window.framework: No such file or directory1(4@55"pbxcp: sfml-window.framework: No such file or directory319748864#18446744073709551615#0#0(6@0"319748864#0#0#0#0#0"0(0#0#41"/Library/Frameworks/sfml-window.framework8597430368#487"    cd "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Library/Frameworks/sfml-window.framework "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Frameworks"1#
+
+CProcessInfoPlistFile "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Info.plist" Info.plist
+s319748864.040240
+e319748864.043331
+r1
+xProcessInfoPlistFile
+x/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist319748864#319748864#0(0"0(0#0#127"/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/Info.plist8598250592#558"    cd "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app/Contents/Info.plist"0#
+
+CTouch "/Users/per-henrikkvalnes/Downloads/SFML-1.6-sdk-macosx-ub32+64/build/xcode/templates/SFML Graphics-based Application/build/Debug/«PROJECTNAME».app"
+r0
+
